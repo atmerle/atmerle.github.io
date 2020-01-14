@@ -3,9 +3,8 @@
 
 ## Random stuff
 
-### atmerle
+
 ### Proyectos
-### Repos
 ### Lecturas
 ### Psicología
 ### Linux
@@ -13,4 +12,3 @@
 ### Derecho
 ### Bookmarks
 ### Idiomas
-### Docus
