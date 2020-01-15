@@ -6,6 +6,8 @@ h1,h2,h3,h4,h5{
 }
 h1{
   text-align: center;
-  a{ color: #ff0066 !important; text-decoration: none; &:hover, &:visited, &:active { color:  #ff0066 !important; }}
-
 }
+
+h1 a{color: #ff0066; text-decoration: none; }
+h1 a:hover{color: #ff0066; text-decoration: none; }
+h1 a:visited{color: #ff0066; text-decoration: none; }
