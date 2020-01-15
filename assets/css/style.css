@@ -24,7 +24,7 @@ a, a:hover, a:visited{color: #009999; text-decoration: none; font-weight: bold;}
 }
 
 .highlight, blockquote{
-background-color: #222211; color: #ccff66; padding-left: 3px; padding-right: 3px; font-weight: bold; padding-bottom: 2px;
+background-color: #222211; color: #ccff66; padding-left: 8px; padding-right: 8px; font-weight: bold; padding-bottom: 2px;
 }
 
 .language-plaintext{
