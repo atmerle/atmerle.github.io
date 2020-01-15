@@ -23,6 +23,10 @@ a, a:hover, a:visited{color: #009999; text-decoration: none; font-weight: bold;}
   width: 65%; margin: auto;
 }
 
-.highlight{
-background-color: #222211; color: #ccff66; padding-left: 10px; padding-right: 10px; font-weight: bold; padding-bottom: 2px;
+.highlight, blockquote{
+background-color: #222211; color: #ccff66; padding-left: 3px; padding-right: 3px; font-weight: bold; padding-bottom: 2px;
+}
+
+.language-plaintext{
+background-color: #222211; color: #ccff66; font-weight: bold;
 }
