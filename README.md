@@ -7,6 +7,13 @@
 
 #### Proyectos
 #### Lecturas
+
+> lecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que 
+
+lecido hace `demasiado` tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que 
+
+
+
 #### Psicología
 #### Linux
 #### Programación
