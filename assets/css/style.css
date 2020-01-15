@@ -24,5 +24,5 @@ a, a:hover, a:visited{color: #009999; text-decoration: none; font-weight: bold;}
 }
 
 .highlight{
-background-color: #222211; color: #ccff66; padding-left: 10px; padding-right: 10px; font-weight: bold;
+background-color: #222211; color: #ccff66; padding-left: 10px; padding-right: 10px; font-weight: bold; padding-bottom: 5px;
 }
