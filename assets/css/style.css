@@ -23,3 +23,6 @@ a, a:hover, a:visited{color: #009999; text-decoration: none; font-weight: bold;}
   width: 65%; margin: auto;
 }
 
+.highlight{
+background-color: #222211; color: #ccff66;
+}
