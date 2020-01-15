@@ -6,6 +6,6 @@ h1,h2,h3,h4,h5{
 }
 h1{
   text-align: center;
-  a{ color: #ff0066; text-decoration: none; &:hover, &:visited, &:active { color:  #ff0066; }}
+  a{ color: #ff0066 !important; text-decoration: none; &:hover, &:visited, &:active { color:  #ff0066 !important; }}
 
 }
