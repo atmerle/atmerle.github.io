@@ -1,3 +1,3 @@
 ## El repo de Roy Quintanr
 
-<center><<atmerlerepo@gmail.com>></center>
+<center>mail: <atmerlerepo@gmail.com></center>
